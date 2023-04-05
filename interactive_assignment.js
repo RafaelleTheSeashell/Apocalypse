@@ -9,7 +9,7 @@ let virus;
 let city;
 let bg;
 let speedX;
-let  speedY;
+let speedY;
 
 
 function setup() {
