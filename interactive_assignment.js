@@ -14,7 +14,7 @@ let speedY;
 
 function setup() {
   //The background is a cityscape. It represents the world. 
-  bg= loadImage ("grey city.png");
+  bg= loadImage ("grey_city.png");
   createCanvas(windowWidth, windowHeight);
   
   a = 0;
